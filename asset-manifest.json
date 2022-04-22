@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clock-gh-pages/static/css/main.d1b05096.chunk.css",
+    "main.js": "/clock-gh-pages/static/js/main.6ff9ce40.chunk.js",
+    "main.js.map": "/clock-gh-pages/static/js/main.6ff9ce40.chunk.js.map",
+    "runtime-main.js": "/clock-gh-pages/static/js/runtime-main.60201052.js",
+    "runtime-main.js.map": "/clock-gh-pages/static/js/runtime-main.60201052.js.map",
+    "static/js/2.43563c96.chunk.js": "/clock-gh-pages/static/js/2.43563c96.chunk.js",
+    "static/js/2.43563c96.chunk.js.map": "/clock-gh-pages/static/js/2.43563c96.chunk.js.map",
+    "index.html": "/clock-gh-pages/index.html",
+    "precache-manifest.ca476737e48fbb983e7b86845acaedf4.js": "/clock-gh-pages/precache-manifest.ca476737e48fbb983e7b86845acaedf4.js",
+    "service-worker.js": "/clock-gh-pages/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/clock-gh-pages/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.43563c96.chunk.js.LICENSE": "/clock-gh-pages/static/js/2.43563c96.chunk.js.LICENSE",
+    "static/media/logo.svg": "/clock-gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60201052.js",
+    "static/js/2.43563c96.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6ff9ce40.chunk.js"
+  ]
+}
